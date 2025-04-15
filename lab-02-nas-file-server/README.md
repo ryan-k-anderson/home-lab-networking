@@ -31,8 +31,9 @@ Create a secure, headless network-attached storage (NAS) system using a Raspberr
 - Systemd-based service management and debugging techniques
 
 ## 📸 Screenshots
-- Setup output, mount points, and share access on Windows
-- Add images like: `screenshot-nas.png` (optional)
+`screenshot1-nas.png`
+`screenshot2-nas.png`
+`screenshot3-nas.png`
 
 ---
 
