@@ -31,9 +31,9 @@ Create a secure, headless network-attached storage (NAS) system using a Raspberr
 - Systemd-based service management and debugging techniques
 
 ## 📸 Screenshots
-`screenshot1-nas.png`
-`screenshot2-nas.png`
-`screenshot3-nas.png`
+[Mounted_Drive](screenshot1-nas.png)
+[Mapped_Drive](screenshot2-nas.png)
+[Samba_Conf_Perm](screenshot3-nas.png)
 
 ---
 
